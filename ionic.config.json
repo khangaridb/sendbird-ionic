@@ -1,0 +1,7 @@
+{
+  "name": "sendbird-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
